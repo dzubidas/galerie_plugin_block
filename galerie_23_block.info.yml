@@ -1,0 +1,6 @@
+name: 'Glerie 23 block'
+description: 'Create custom block plugin, that will be display in region.'
+package: 'galerie'
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+
